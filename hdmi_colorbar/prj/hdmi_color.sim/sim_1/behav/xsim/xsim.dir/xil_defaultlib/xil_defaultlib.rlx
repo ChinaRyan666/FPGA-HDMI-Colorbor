@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+E:/FPGA/wang/7020/13_hdmi_colorbar/prj/hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1686101956,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/asyn_rst_syn.v,,clk_wiz_0,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/prj/hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1686101956,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/prj/hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/prj/hdmi_color.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/asyn_rst_syn.v,1627800980,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/dvi_encoder.v,,asyn_rst_syn,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/dvi_encoder.v,1682406751,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/dvi_transmitter_top.v,,dvi_encoder,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/dvi_transmitter_top.v,1627800980,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/hdmi_colorbar_top.v,,dvi_transmitter_top,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/hdmi_colorbar_top.v,1686043780,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/serializer_10_to_1.v,,hdmi_colorbar_top,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/serializer_10_to_1.v,1627800979,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/video_display.v,,serializer_10_to_1,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/video_display.v,1686036019,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/video_driver.v,,video_display,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/rtl/video_driver.v,1687244522,verilog,,E:/FPGA/wang/7020/13_hdmi_colorbar/sim/tb_hdmi_colorbar_top.v,,video_driver,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/wang/7020/13_hdmi_colorbar/sim/tb_hdmi_colorbar_top.v,1686278801,verilog,,,,tb_hdmi_colorbar_top,,,../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0,,,,,

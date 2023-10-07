@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Oct  6 20:08:53 2023
+# Process ID: 10968
+# Current directory: D:/Github/FPGA-HDMI-Colorbor/hdmi_colorbar/prj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19704 D:\Github\FPGA-HDMI-Colorbor\hdmi_colorbar\prj\hdmi_color.xpr
+# Log file: D:/Github/FPGA-HDMI-Colorbor/hdmi_colorbar/prj/vivado.log
+# Journal file: D:/Github/FPGA-HDMI-Colorbor/hdmi_colorbar/prj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Github/FPGA-HDMI-Colorbor/hdmi_colorbar/prj/hdmi_color.xpr
+update_compile_order -fileset sources_1

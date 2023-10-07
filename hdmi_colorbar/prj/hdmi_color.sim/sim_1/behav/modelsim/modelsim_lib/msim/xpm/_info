@@ -1,0 +1,239 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Admin/Desktop/demo/13_hdmi_colorbar/prj/hdmi_color.sim/sim_1/behav/modelsim
+Pvcomponents
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z1 w1605732256
+R0
+8D:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_VCOMP.vhd
+FD:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_VCOMP.vhd
+l0
+L11
+V9:3U_H2cANb;L94J:hnfG0
+!s100 H0c[:`mBkjUc6^9aHX<U92
+OL;C;10.5;63
+31
+!s110 1686037815
+!i10b 1
+!s108 1686037815.000000
+!s90 -93|-work|xpm|D:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_VCOMP.vhd|
+!s107 D:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_VCOMP.vhd|
+!i113 0
+o-93 -work xpm
+tExplicit 1 CvgOpt 0
+vxpm_cdc_array_single
+Z2 !s10a 1605732256
+Z3 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z4 !s110 1682409570
+!i10b 1
+!s100 =VCjSNQS`Sc;VVc:>Ya>X3
+IFOecoO>B5B>:i9Q9Lif<f1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 !s105 xpm_cdc_sv_unit
+S1
+R0
+R1
+Z7 8D:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv
+Z8 FD:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv
+L0 903
+Z9 OL;L;10.5;63
+r1
+!s85 0
+31
+Z10 !s108 1682409570.000000
+Z11 !s107 D:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv|
+Z12 !s90 -incr|-sv|-work|xpm|+incdir+../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0|D:/Xilinx/Vivado/2020.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv|
+!i113 0
+Z13 o-sv -work xpm -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 !s92 -sv -work xpm +incdir+../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z15 tCvgOpt 0
+vxpm_cdc_async_rst
+R2
+R3
+R4
+!i10b 1
+!s100 0^B>I@]YG>O`F06]ME?Kz2
+I_@h1_OM<gB>WO[VCkfBW=2
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 1175
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15
+vxpm_cdc_gray
+R2
+R3
+R4
+!i10b 1
+!s100 c5:[hXPGkREE=om;h1PER2
+I]=D>S];UTPck^cfJMeY>I1
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 284
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15
+vxpm_cdc_handshake
+R2
+R3
+R4
+!i10b 1
+!s100 2nX[0D7bN@CTBzPhT6ZId2
+I:zUDJV?czGUV^gY85ZhPF1
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 469
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15
+vxpm_cdc_low_latency_handshake
+R2
+R3
+R4
+!i10b 1
+!s100 DUQY8F6f@DWmT?f9Uo8G01
+I90kCjI5c:l1fcNSK3F8Tf2
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 1265
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15
+vxpm_cdc_pulse
+R2
+R3
+R4
+!i10b 1
+!s100 =[IbJ?5ZSd_W^B7BUX1:S1
+I9fZJ@z]BT[gnk:35Vj5kR0
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 715
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15
+vxpm_cdc_single
+R2
+R3
+R4
+!i10b 1
+!s100 ET1C2ZNLeac[<SbXI_oJ_0
+INY;;A6O>eZU>oA_?T[I:Y1
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 153
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15
+vxpm_cdc_sync_rst
+R2
+R3
+R4
+!i10b 1
+!s100 SPJeHj8CAXRP0D6YU2jDG2
+I[NmfU4RDd6X<E?za9<[?j2
+R5
+R6
+S1
+R0
+R1
+R7
+R8
+L0 1059
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R15

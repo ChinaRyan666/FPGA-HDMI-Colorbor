@@ -1,0 +1,327 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Admin/Desktop/demo/13_hdmi_colorbar/prj/hdmi_color.sim/sim_1/behav/modelsim
+T_opt
+!s110 1687676880
+VbX[;mQkLHcXIIoJ>VL84`1
+04 20 4 work tb_hdmi_colorbar_top fast 0
+Z1 04 4 4 work glbl fast 0
+=1-d8bbc14fe465-6497e7cf-3a4-f24
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+T_opt1
+!s110 1682410191
+VBPfEGF1TUSbnE7FaoG1n61
+Z4 04 16 4 work tb_hdmi_colorbar fast 0
+R1
+=1-d8bbc14fe465-64478acf-da-485c
+Z5 o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L xpm -L unisims_ver -L unimacro_ver -L secureip +acc
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1686038309
+VHzY;<^B9`iO8PTBNmPE6]2
+R4
+R1
+=5-d8bbc14fe465-647ee725-172-52f8
+R5
+R2
+n@_opt2
+R3
+R0
+vasyn_rst_syn
+Z6 !s110 1687676876
+!i10b 1
+!s100 >914;^S0kYBh3c;_TAY1I3
+I68NW?^14HJio2loBZzo483
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 dC:/Users/Admin/Desktop/7020/13_hdmi_colorbar/prj/hdmi_color.sim/sim_1/behav/modelsim
+Z9 w1627800980
+8../../../../../rtl/asyn_rst_syn.v
+F../../../../../rtl/asyn_rst_syn.v
+Z10 L0 23
+Z11 OL;L;10.5;63
+r1
+!s85 0
+31
+Z12 !s108 1687676875.000000
+Z13 !s107 ../../../../../sim/tb_hdmi_colorbar_top.v|../../../../../rtl/video_driver.v|../../../../../rtl/video_display.v|../../../../../rtl/serializer_10_to_1.v|../../../../../rtl/hdmi_colorbar_top.v|../../../../../rtl/dvi_transmitter_top.v|../../../../../rtl/dvi_encoder.v|../../../../../rtl/asyn_rst_syn.v|../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v|../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v|
+Z14 !s90 -incr|-work|xil_defaultlib|+incdir+../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0|../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v|../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v|../../../../../rtl/asyn_rst_syn.v|../../../../../rtl/dvi_encoder.v|../../../../../rtl/dvi_transmitter_top.v|../../../../../rtl/hdmi_colorbar_top.v|../../../../../rtl/serializer_10_to_1.v|../../../../../rtl/video_display.v|../../../../../rtl/video_driver.v|../../../../../sim/tb_hdmi_colorbar_top.v|
+!i113 0
+Z15 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z16 !s92 -work xil_defaultlib +incdir+../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vclk_wiz_0
+R6
+!i10b 1
+!s100 ]6ZN47;`OIg9@dZ@CgTR_3
+IbV@O;fYOP;foYX=OeVB9O1
+R7
+R8
+Z17 w1686101956
+8../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v
+F../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v
+L0 71
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vclk_wiz_0_clk_wiz
+R6
+!i10b 1
+!s100 ZlKKBaC2N^DB9]h=VWE<z1
+IV>D[D7_FBNZK0@YX^Hm4C2
+R7
+R8
+R17
+8../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v
+F../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v
+L0 69
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vdvi_encoder
+R6
+!i10b 1
+!s100 nUGE:;U6]XZRm]>C2WAWg1
+I2^Ub^ZDDRWb9CGDMY279c3
+R7
+R8
+w1682406751
+8../../../../../rtl/dvi_encoder.v
+F../../../../../rtl/dvi_encoder.v
+L0 21
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vdvi_transmitter_top
+R6
+!i10b 1
+!s100 S2d=?C;X5Wkb8`ZA@WzXd3
+IgIlnWS6@L9`a1=a6GDb[O1
+R7
+R8
+R9
+8../../../../../rtl/dvi_transmitter_top.v
+F../../../../../rtl/dvi_transmitter_top.v
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vglbl
+R6
+!i10b 1
+!s100 aGX4R92RO3^bD43HL2j:J2
+Ii@2]DfVnUU[WE=M5a<e[a3
+R7
+R8
+w1605673889
+8glbl.v
+Fglbl.v
+L0 6
+R11
+r1
+!s85 0
+31
+!s108 1687676876.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+R15
+R2
+vhdmi_colorbar_top
+R6
+!i10b 1
+!s100 XKIb>V_6FnS17NDhNFcf:1
+IW2lXl=QlFl3ZfDa8AJieK3
+R7
+R8
+w1686043780
+8../../../../../rtl/hdmi_colorbar_top.v
+F../../../../../rtl/hdmi_colorbar_top.v
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vserializer_10_to_1
+R6
+!i10b 1
+!s100 :R0eVknJm4HnaRznL8QQd0
+ISJ[daNJbdc3E0S6P0A>JM1
+R7
+R8
+w1627800979
+8../../../../../rtl/serializer_10_to_1.v
+F../../../../../rtl/serializer_10_to_1.v
+L0 25
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vtb_hdmi_colorbar
+Z18 !s110 1686038307
+!i10b 1
+!s100 nb<JB`zXMnTm7cPh_ogD:3
+I=jP?XddL8:;BnM<l:a<>c2
+R7
+R0
+w1682410018
+8C:/Users/Admin/Desktop/demo/13_hdmi_colorbar/sim/tb_hdmi_colorbar.v
+FC:/Users/Admin/Desktop/demo/13_hdmi_colorbar/sim/tb_hdmi_colorbar.v
+L0 3
+R11
+r1
+!s85 0
+31
+Z19 !s108 1686038307.000000
+!s107 C:/Users/Admin/Desktop/demo/13_hdmi_colorbar/sim/tb_hdmi_colorbar.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/Admin/Desktop/demo/13_hdmi_colorbar/sim/tb_hdmi_colorbar.v|
+!i113 0
+R15
+R16
+R2
+vtb_hdmi_colorbar_top
+R6
+!i10b 1
+!s100 [o2`?KS0DVVjM198Ld7QT0
+I]NHTkkiCz8fS]7<H0G;I43
+R7
+R8
+w1686278801
+8../../../../../sim/tb_hdmi_colorbar_top.v
+F../../../../../sim/tb_hdmi_colorbar_top.v
+L0 3
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vtb_serializer
+R18
+!i10b 1
+!s100 U_7_7:QmlAi0I8zTYGoU62
+Ink]ScEmJU`0M<KMbCOoXk0
+R7
+R0
+w1683528728
+8C:/Users/Admin/Desktop/demo/13_hdmi_colorbar/prj/hdmi_color.srcs/sim_1/new/tb_serializer.v
+FC:/Users/Admin/Desktop/demo/13_hdmi_colorbar/prj/hdmi_color.srcs/sim_1/new/tb_serializer.v
+L0 3
+R11
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Admin/Desktop/demo/13_hdmi_colorbar/prj/hdmi_color.srcs/sim_1/new/tb_serializer.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../hdmi_color.gen/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/Admin/Desktop/demo/13_hdmi_colorbar/prj/hdmi_color.srcs/sim_1/new/tb_serializer.v|
+!i113 0
+R15
+R16
+R2
+vvideo_display
+R6
+!i10b 1
+!s100 ZeBGYQkBB[8XCOEECSoT01
+Ikc4nHFdY9nELiPX_=YfX:1
+R7
+R8
+w1686036019
+8../../../../../rtl/video_display.v
+F../../../../../rtl/video_display.v
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
+vvideo_driver
+R6
+!i10b 1
+!s100 >jc6Zom>C_[i2]J?7C?9Z3
+IK<m5IdXMkn37iF4zPHHff2
+R7
+R8
+w1687244522
+8../../../../../rtl/video_driver.v
+F../../../../../rtl/video_driver.v
+L0 24
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R2
